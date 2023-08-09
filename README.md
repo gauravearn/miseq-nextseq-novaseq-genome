@@ -58,7 +58,7 @@ bowtie2 -t -x gaurav -p 1 --very-sensitive-local -1 \
          -2 /Users/gauravsablok/Desktop/GitHub/shell_builder/text3.txt.cleaned.R2 \
                  -S gaurav.sam --no-unal --al-conc gaurav.aligned.fastq \
 spades.py -1 /Users/gauravsablok/Desktop/GitHub/shell_builder/text.aligned.R1.fastq \
-       -2 /Users/gauravsablok/Desktop/GitHub/shell_builder/*.aligned.R2.fastq \
+       -2 /Users/gauravsablok/Desktop/GitHub/shell_builder/text.aligned.R2.fastq \
                  --careful --threads 1 --tmp-dir  -k 45,55,65,75 \
                                  -o /Users/gauravsablok/Desktop/GitHub/shell_builder/ \
 ```
