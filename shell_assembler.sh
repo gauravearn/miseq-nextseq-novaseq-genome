@@ -23,7 +23,7 @@ if
         [[ $cleanreads == "yes" ]]
     [[ $mapper == "no" ]] &&
         [[ $assemble == "no" ]] &&
-        [[ $index == "no" ]]
+        [[ $index == "no" ]];
 then
     for i in ${dirname}/*.R1.fastq; do
         for j in ${dirname}/*.R2.fastq; do
