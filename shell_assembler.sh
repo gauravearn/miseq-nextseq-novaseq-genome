@@ -20,7 +20,7 @@ read -p "enter the name of the bowtie index:" index
 read -p "do you want to assemble the reads:" assemble
 if
     [[ -d "${dirname}" ]] &&
-        [[ $cleanreads == "yes" ]]
+        [[ $cleanreads == "yes" ]] &&
     [[ $mapper == "no" ]] &&
         [[ $assemble == "no" ]] &&
         [[ $index == "no" ]];
