@@ -1,4 +1,4 @@
-# shell_assembler_bacterial_plant_fungal_genomes
+# assembler_bacterial_plant_fungal_genomes
 A pure shell assembler that takes only the directory path and does all the cleaning of the reads, mapping, remapping and assembly. From start to finish everything by providing a simple directory path. You dont have to provide anything else just the directory path of the fastq files.It works with MiSeq, NextSeq, NovaSeq. It works with all 
 plant, bacterial and fungal genomes. 
 
@@ -64,7 +64,8 @@ spades.py -1 /Users/gauravsablok/Desktop/GitHub/shell_builder/text.aligned.R1.fa
                                  -o /Users/gauravsablok/Desktop/GitHub/shell_builder/ \
 ```
 Gaurav Sablok \
-ORCID: https://orcid.org/0000-0002-4157-9405 \
-WOS: https://www.webofscience.com/wos/author/record/C-5940-2014 \
-RubyGems Published: https://rubygems.org/profiles/sablokgaurav \
-Python Packages Published : https://pypi.org/user/sablokgaurav/
+Academic Staff Member \
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
