@@ -63,7 +63,7 @@ spades.py -1 /Users/gauravsablok/Desktop/GitHub/shell_builder/text.aligned.R1.fa
                  --careful --threads 1 --tmp-dir  -k 45,55,65,75 \
                                  -o /Users/gauravsablok/Desktop/GitHub/shell_builder/ \
 ```
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
